@@ -1,30 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.2" width="297mm" height="210mm" viewBox="0 0 29700 21000" preserveAspectRatio="xMidYMid" fill-rule="evenodd" stroke-width="28.222" stroke-linejoin="round" xmlns="http://www.w3.org/2000/svg" xmlns:ooo="http://xml.openoffice.org/svg/export" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:presentation="http://sun.com/xmlns/staroffice/presentation" xmlns:smil="http://www.w3.org/2001/SMIL20/" xmlns:anim="urn:oasis:names:tc:opendocument:xmlns:animation:1.0" xml:space="preserve">
+<svg version="1.2" width="47.02mm" height="40.01mm" viewBox="10500 7900 4702 4001" preserveAspectRatio="xMidYMid" fill-rule="evenodd" stroke-width="28.222" stroke-linejoin="round" xmlns="http://www.w3.org/2000/svg" xmlns:ooo="http://xml.openoffice.org/svg/export" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:presentation="http://sun.com/xmlns/staroffice/presentation" xmlns:smil="http://www.w3.org/2001/SMIL20/" xmlns:anim="urn:oasis:names:tc:opendocument:xmlns:animation:1.0" xml:space="preserve">
  <defs class="ClipPathGroup">
   <clipPath id="presentation_clip_path" clipPathUnits="userSpaceOnUse">
-   <rect x="0" y="0" width="29700" height="21000"/>
+   <rect x="10500" y="7900" width="4702" height="4001"/>
   </clipPath>
   <clipPath id="presentation_clip_path_shrink" clipPathUnits="userSpaceOnUse">
-   <rect x="29" y="21" width="29641" height="20958"/>
+   <rect x="10504" y="7904" width="4693" height="3993"/>
   </clipPath>
- </defs>
- <defs>
-  <font id="EmbeddedFont_1" horiz-adv-x="2048">
-   <font-face font-family="Roboto Slab embedded" units-per-em="2048" font-weight="normal" font-style="normal" ascent="2148" descent="561"/>
-   <missing-glyph horiz-adv-x="2048" d="M 0,0 L 2047,0 2047,2047 0,2047 0,0 Z"/>
-   <glyph unicode="y" horiz-adv-x="1091" d="M 1117,955 L 1020,940 608,-166 C 581,-239 541,-302 490,-356 439,-410 370,-437 283,-437 268,-437 248,-435 223,-431 198,-428 179,-424 166,-421 L 186,-266 C 182,-265 194,-266 222,-268 249,-270 267,-271 274,-271 316,-271 350,-253 376,-216 402,-180 425,-138 444,-91 L 491,21 134,939 35,955 35,1082 472,1082 472,955 350,935 537,401 573,263 579,263 804,935 681,955 681,1082 1117,1082 1117,955 Z"/>
-   <glyph unicode="t" horiz-adv-x="636" d="M 433,1343 L 433,1082 638,1082 638,936 433,936 433,279 C 433,228 444,193 465,172 486,151 513,141 548,141 565,141 585,143 607,146 628,149 646,152 661,155 L 688,20 C 669,8 642,-2 606,-9 570,-17 534,-21 498,-21 418,-21 354,3 307,52 260,100 236,176 236,279 L 236,936 65,936 65,1082 236,1082 236,1343 433,1343 Z"/>
-   <glyph unicode="s" horiz-adv-x="838" d="M 917,742 L 769,742 737,872 C 713,895 683,913 647,927 610,940 569,947 523,947 453,947 401,932 367,901 333,870 316,833 316,790 316,747 331,714 361,689 391,664 452,642 544,623 681,594 782,554 849,504 916,453 949,386 949,301 949,205 910,127 833,68 755,9 653,-21 528,-21 446,-21 372,-11 307,8 242,27 183,54 132,90 L 131,337 279,337 316,192 C 339,171 370,156 409,147 448,138 487,133 528,133 598,133 653,147 693,176 732,204 752,241 752,287 752,330 736,366 703,394 670,422 607,446 515,467 384,496 285,535 218,584 151,633 118,700 118,784 118,872 156,947 231,1009 306,1071 403,1102 523,1102 605,1102 679,1091 744,1070 809,1049 864,1019 907,981 L 917,742 Z"/>
-   <glyph unicode="r" horiz-adv-x="720" d="M 89,955 L 89,1082 428,1082 447,925 C 478,980 516,1024 561,1055 606,1086 657,1102 715,1102 730,1102 746,1101 763,1099 779,1096 791,1094 800,1091 L 774,908 662,914 C 610,914 566,902 531,878 496,853 468,819 449,775 L 449,154 612,126 612,0 89,0 89,126 252,154 252,927 89,955 Z"/>
-   <glyph unicode="o" horiz-adv-x="985" d="M 90,551 C 90,711 133,843 220,947 307,1050 424,1102 573,1102 722,1102 841,1050 928,947 1015,844 1058,712 1058,551 L 1058,529 C 1058,368 1015,236 928,133 841,30 724,-21 575,-21 425,-21 307,31 220,134 133,237 90,368 90,529 L 90,551 Z M 287,529 C 287,414 311,320 360,245 408,170 480,133 575,133 668,133 739,170 788,245 837,320 861,414 861,529 L 861,551 C 861,664 837,759 788,834 739,909 668,947 573,947 478,947 407,909 359,834 311,759 287,664 287,551 L 287,529 Z"/>
-   <glyph unicode="n" horiz-adv-x="1218" d="M 60,126 L 223,154 223,927 60,955 60,1082 399,1082 413,921 C 449,978 494,1023 549,1055 603,1086 665,1102 734,1102 851,1102 941,1068 1005,1000 1069,931 1101,826 1101,683 L 1101,154 1264,126 1264,0 741,0 741,126 904,154 904,679 C 904,774 885,842 848,882 810,922 752,942 675,942 618,942 568,928 525,901 481,874 446,836 420,789 L 420,154 583,126 583,0 60,0 60,126 Z"/>
-   <glyph unicode="i" horiz-adv-x="530" d="M 89,126 L 252,154 252,927 89,955 89,1082 449,1082 449,154 612,126 612,0 89,0 89,126 Z M 449,1359 L 252,1359 252,1560 449,1560 449,1359 Z"/>
-   <glyph unicode="g" horiz-adv-x="932" d="M 90,521 C 90,695 128,835 204,942 280,1049 385,1102 519,1102 587,1102 647,1089 698,1062 749,1035 792,997 827,946 L 845,1082 1011,1082 1011,14 C 1011,-126 972,-236 894,-316 816,-397 705,-437 561,-437 509,-437 453,-430 392,-415 331,-401 278,-382 232,-357 L 283,-204 C 320,-223 363,-239 413,-252 463,-265 512,-271 559,-271 647,-271 712,-246 753,-197 794,-148 814,-77 814,14 L 814,117 C 779,72 736,37 687,14 638,-9 581,-21 517,-21 384,-21 280,27 204,123 128,219 90,345 90,500 L 90,521 Z M 287,500 C 287,391 310,304 356,238 402,172 472,139 566,139 625,139 675,153 715,180 755,207 788,245 814,294 L 814,792 C 789,838 756,875 715,902 674,929 625,942 568,942 474,942 404,903 357,824 310,745 287,644 287,521 L 287,500 Z"/>
-   <glyph unicode="a" horiz-adv-x="964" d="M 795,0 C 789,29 784,56 781,79 778,102 775,126 774,149 736,100 689,60 632,28 575,-5 514,-21 449,-21 336,-21 251,7 192,62 133,117 104,194 104,294 104,397 146,476 229,532 312,587 425,615 570,615 L 773,615 773,741 C 773,804 753,855 713,892 673,929 617,947 546,947 497,947 453,941 416,928 378,915 347,898 324,876 L 303,762 151,762 151,972 C 200,1011 260,1043 330,1067 400,1090 476,1102 558,1102 681,1102 780,1071 856,1008 932,945 970,856 970,739 L 970,218 C 970,204 970,190 971,177 971,164 972,150 973,137 L 1053,126 1053,0 795,0 Z M 478,144 C 543,144 603,160 657,191 711,222 750,260 773,304 L 773,482 563,482 C 482,482 419,463 372,426 325,389 301,343 301,290 301,243 316,207 345,182 374,157 419,144 478,144 Z"/>
-   <glyph unicode="M" horiz-adv-x="1779" d="M 1494,1166 L 1489,1167 1018,0 887,0 416,1166 411,1165 431,576 431,154 594,126 594,0 71,0 71,126 234,154 234,1301 71,1329 71,1456 234,1456 486,1456 950,273 956,273 1419,1456 1835,1456 1835,1329 1672,1301 1672,154 1835,126 1835,0 1312,0 1312,126 1475,154 1475,576 1494,1166 Z"/>
-   <glyph unicode=" " horiz-adv-x="508"/>
-  </font>
  </defs>
  <defs class="TextShapeIndex">
   <g ooo:slide="id1" ooo:id-list="id3 id4 id5"/>
@@ -62,12 +45,6 @@
   </g>
  </defs>
  <defs class="TextEmbeddedBitmaps"/>
- <g>
-  <g id="id2" class="Master_Slide">
-   <g id="bg-id2" class="Background"/>
-   <g id="bo-id2" class="BackgroundObjects"/>
-  </g>
- </g>
  <g class="SlideGroup">
   <g>
    <g id="container-id1">
@@ -75,24 +52,22 @@
      <g class="Page">
       <g class="com.sun.star.drawing.CustomShape">
        <g id="id3">
-        <rect class="BoundingBox" stroke="none" fill="none" x="10499" y="5999" width="2903" height="1603"/>
-        <path fill="rgb(222,230,239)" stroke="none" d="M 11950,7600 L 10500,7600 10500,6000 13400,6000 13400,7600 11950,7600 Z"/>
-        <path fill="none" stroke="rgb(52,101,164)" d="M 11950,7600 L 10500,7600 10500,6000 13400,6000 13400,7600 11950,7600 Z"/>
-        <text class="TextShape"><tspan class="TextParagraph" font-family="Roboto Slab" font-size="282px" font-weight="400"><tspan class="TextPosition" x="10847" y="6910"><tspan fill="rgb(0,0,0)" stroke="none">My organisation</tspan></tspan></tspan></text>
+        <rect class="BoundingBox" stroke="none" fill="none" x="10499" y="10299" width="2903" height="1603"/>
+        <path fill="rgb(222,230,239)" stroke="none" d="M 11950,11900 L 10500,11900 10500,10300 13400,10300 13400,11900 11950,11900 Z"/>
+        <path fill="none" stroke="rgb(52,101,164)" d="M 11950,11900 L 10500,11900 10500,10300 13400,10300 13400,11900 11950,11900 Z"/>
        </g>
       </g>
       <g class="com.sun.star.drawing.CustomShape">
        <g id="id4">
-        <rect class="BoundingBox" stroke="none" fill="none" x="14099" y="8499" width="2903" height="1603"/>
-        <path fill="rgb(222,230,239)" stroke="none" d="M 15550,10100 L 14100,10100 14100,8500 17000,8500 17000,10100 15550,10100 Z"/>
-        <path fill="none" stroke="rgb(52,101,164)" d="M 15550,10100 L 14100,10100 14100,8500 17000,8500 17000,10100 15550,10100 Z"/>
-        <text class="TextShape"><tspan class="TextParagraph" font-family="Roboto Slab" font-size="282px" font-weight="400"><tspan class="TextPosition" x="14447" y="9410"><tspan fill="rgb(0,0,0)" stroke="none">My organisation</tspan></tspan></tspan></text>
+        <rect class="BoundingBox" stroke="none" fill="none" x="11799" y="7899" width="2903" height="1603"/>
+        <path fill="rgb(222,230,239)" stroke="none" d="M 13250,9500 L 11800,9500 11800,7900 14700,7900 14700,9500 13250,9500 Z"/>
+        <path fill="none" stroke="rgb(52,101,164)" d="M 13250,9500 L 11800,9500 11800,7900 14700,7900 14700,9500 13250,9500 Z"/>
        </g>
       </g>
       <g class="com.sun.star.drawing.ConnectorShape">
        <g id="id5">
-        <rect class="BoundingBox" stroke="none" fill="none" x="13399" y="6799" width="4104" height="2503"/>
-        <path fill="none" stroke="rgb(52,101,164)" d="M 13400,6800 L 17501,6800 17501,9300 17000,9300"/>
+        <rect class="BoundingBox" stroke="none" fill="none" x="13399" y="8699" width="1804" height="2403"/>
+        <path fill="none" stroke="rgb(52,101,164)" d="M 13400,11100 L 15201,11100 15201,8700 14700,8700"/>
        </g>
       </g>
      </g>
