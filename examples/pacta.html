@@ -50,7 +50,7 @@
             svg.selectAll('path').each(function (d, i) {
                 rc.path(d3.select(this).attr('d'), {
                     hachureAngle: angles[i % 4],
-                    fill: colors[i % 4],
+//                    fill: colors[i % 4],
                 });
 
                 var tf = d3.select(this).attr('transform');
